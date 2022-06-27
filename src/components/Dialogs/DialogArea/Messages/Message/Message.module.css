@@ -1,0 +1,14 @@
+.Message{
+    width: 100px;
+    background-color: #83bfab;
+    padding: 16px;
+    margin: 10px;
+    border-radius: 8px;
+}
+.Name{
+    padding-bottom: 5px;
+    font-weight: bold;
+}
+.Body{
+
+}

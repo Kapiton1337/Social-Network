@@ -1,0 +1,10 @@
+.dialog{
+    background-color: #83bfab;
+    margin: 4px;
+    padding: 10px;
+    font-weight: bold;
+}
+.dialog img{
+    border-radius: 100px;
+    width: 100px;
+}
